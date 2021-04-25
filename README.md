@@ -5,3 +5,4 @@
 
 ## Actions that worth installing in every repository
 
+- [DCO: Developer Certificate of Origin](https://github.com/probot/dco)
