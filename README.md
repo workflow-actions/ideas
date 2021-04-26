@@ -2,6 +2,8 @@
 
 - [ ] Github Action to create Changelog
 - [ ] Github Action to update gitignore
+- [ ] Github Action to clean actions logs/remove runs
+- [ ] Update settings, as probot settings works a bit weird
 
 ## Actions that worth installing in every repository
 
