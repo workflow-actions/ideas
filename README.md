@@ -5,6 +5,10 @@
 - [ ] Github Action to clean actions logs/remove runs
 - [ ] Update settings, as probot settings works a bit weird
 - [ ] Github action to find out the required permissions for token e.g. to only allow what is really required
+- [ ] Fork repo sync
+      - Should able to determine where the root repo is
+      - Should work fater
+      - Should check last commit message
 
 ## Actions that worth installing in every repository
 
