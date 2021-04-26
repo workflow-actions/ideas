@@ -10,3 +10,11 @@
 ### Hubs
 
 - [Actiosn hub](https://github.com/actionshub)
+
+## Example Actions
+
+- [Renovate Bot](https://github.com/renovatebot/github-action)
+
+## Octokit plugins
+
+- [Inherit github settings](https://github.com/probot/octokit-plugin-config)
