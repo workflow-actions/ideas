@@ -4,6 +4,7 @@
 - [ ] Github Action to update gitignore
 - [ ] Github Action to clean actions logs/remove runs
 - [ ] Update settings, as probot settings works a bit weird
+- [ ] Github action to find out the required permissions for token e.g. to only allow what is really required
 
 ## Actions that worth installing in every repository
 
